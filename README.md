@@ -4,6 +4,7 @@
 - 💼 I'm open to work, please connect on <a href="https://www.linkedin.com/in/tinanhivo/">LinkedIn</a>
 - 🔭 I’m currently working on my portfolio website
 - 🌱 I’m currently learning React
+- 🎨 I'm interested in UI designs, 3D and motion designs
 - 💬 Ping me about travels, design, food, mentorship
 - 📫 How to reach me: tinanhivo@gmail.com, or one of the socials below
 - 👩 Pronouns: She/Her/Hers
