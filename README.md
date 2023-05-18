@@ -1,5 +1,6 @@
 <h1 align="center">Hey! I'm Tina <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1> 
 
+- 🌸 Check out my portfolio <a href="https://tina-vo.vercel.app/">here</a>!
 - 🎓 Completed General Assembly Software Engineering Immersive Bootcamp Feb 2023
 - 💼 I'm open to work, please connect on <a href="https://www.linkedin.com/in/tinanhivo/">LinkedIn</a>
 - 🔭 I’m currently working on my portfolio website
