@@ -1,20 +1,19 @@
 <h1 align="center">Hey! I'm Tina <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1> 
 
-- 🌸 Check out my portfolio <a href="https://tina-vo.vercel.app/">here</a>!
+- 🌸 Check out my portfolio <a href="https://www.tinanvo.com/">here</a>!
 - 🎓 Completed General Assembly Software Engineering Immersive Bootcamp Feb 2023
 - 💼 I'm open to work, please connect on <a href="https://www.linkedin.com/in/tinanhivo/">LinkedIn</a>
-- 🔭 I’m currently working on my portfolio website
-- 🌱 I’m currently learning React
-- 🎨 I'm interested in UI designs, 3D and motion designs
-- 💬 Ping me about travels, design, food, mentorship
-- 📫 How to reach me: tinanhivo@gmail.com, or one of the socials below
+- 🔭 I’m currently working on a  <a href="https://github.com/OB-CODE/plan-prep-eat">Meal Planner App</a>
+- 🌱 I’m currently learning Python, Django
+- 💬 Ping me about travels, design, food
+- 📫 Visit my <a href="https://www.tinanvo.com/">website</a> to send me a message, or one of the socials below
 - 👩 Pronouns: She/Her/Hers
 
 <hr>
 
-<h3 align="center">Tech Stack</h3>
+<h3>Tech Stack</h3>
 
-<table align="center">
+<table >
   <tr>
     <th><h4>Operating System</h4></th>
     <th><h4>Current Code Editor</h4></th>
@@ -43,7 +42,7 @@
   </tr>
 </table>
 
-<table align="center">
+<table>
   <tr>
     <td>
       <a href="https://getbootstrap.com/" title="Bootstrap"
@@ -64,6 +63,16 @@
           height="21px"
       /></a>
       CSS3
+    </td>
+     <td>
+      <a href="https://www.djangoproject.com/" title="Sass"
+        ><img
+          src="https://github.com/get-icon/geticon/raw/master/icons/django.svg"
+          alt="Django"
+          width="21px"
+          height="21px"
+      /></a>
+      Django
     </td>
     <td>
       <a href="https://expressjs.com/" title="Express"
@@ -150,6 +159,16 @@
       /></a>
       Postman
     </td>
+     <td>
+      <a href="https://www.python.org/" title="Sass"
+        ><img
+          src="https://github.com/get-icon/geticon/raw/master/icons/python.svg"
+          alt="Python3"
+          width="21px"
+          height="21px"
+      /></a>
+      Python3
+    </td>
     <td>
       <a href="https://reactjs.org/" title="React"
         ><img
@@ -191,6 +210,16 @@
           height="21px"
       /></a>
       Sass
+    </td>
+      <td>
+      <a href="https://tailwindcss.com/" title="Sass"
+        ><img
+          src="https://github.com/get-icon/geticon/raw/master/icons/tailwindcss.svg"
+          alt="Tailwind"
+          width="21px"
+          height="21px"
+      /></a>
+      Tailwind
     </td>
   </tr>
 </table>
