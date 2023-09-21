@@ -3,12 +3,11 @@
 - 🌸 Check out my portfolio <a href="https://www.tinanvo.com/">here</a>!
 - 🎓 Completed General Assembly Software Engineering Immersive Bootcamp Feb 2023
 - 💼 I'm open to work, please connect on <a href="https://www.linkedin.com/in/tinanhivo/">LinkedIn</a>
-- 🔭 I’m currently working on a  <a href="https://github.com/OB-CODE/plan-prep-eat">Meal Planner App</a>
-- 🌱 I’m currently learning Python, Django
-- 💬 Ping me about travels, design, food
+- 🔭 I’m currently working on a <a href="https://github.com/tinaaiscoding/VOYAGE-2.0">VOYAGE 2.0</a>
 - 📫 Visit my <a href="https://www.tinanvo.com/">website</a> to send me a message, or one of the socials below
 - 👩 Pronouns: She/Her/Hers
-
+  
+<!-- 🌱 I’m currently learning Python, Django -->
 <hr>
 
 <h3>Tech Stack</h3>
@@ -148,16 +147,6 @@
           height="21px"
       /></a>
       Postgresql
-    </td>
-    <td>
-      <a href="https://www.postman.com/" title="Postman"
-        ><img
-          src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png"
-          alt="Postman"
-          width="21px"
-          height="21px"
-      /></a>
-      Postman
     </td>
      <td>
       <a href="https://www.python.org/" title="Sass"
