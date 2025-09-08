@@ -3,11 +3,9 @@
 - 🌸 Check out my portfolio <a href="https://www.tinanvo.com/">here</a>!
 - 🎓 Completed General Assembly Software Engineering Immersive Bootcamp Feb 2023
 - 💼 I'm open to work, please connect on <a href="https://www.linkedin.com/in/tinanhivo/">LinkedIn</a>
-- 🔭 I’m currently working on a <a href="https://github.com/tinaaiscoding/VOYAGE-2.0">VOYAGE 2.0</a>
 - 📫 Visit my <a href="https://www.tinanvo.com/">website</a> to send me a message, or one of the socials below
 - 👩 Pronouns: She/Her/Hers
-  
-<!-- 🌱 I’m currently learning Python, Django -->
+
 <hr>
 
 <h3>Tech Stack</h3>
